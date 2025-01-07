@@ -178,14 +178,10 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
-
-![Overall Report.gif]!(https://github.com/user-attachments/assets/0f239803-e525-4bf9-99a4-a3f94c0fcd0a)
-
 
 ## Info Page
 
-![Info]!(https://github.com/user-attachments/assets/d79bbbeb-5915-4804-9936-c695367a8fdc)
+![Info](https://github.com/user-attachments/assets/abbdd90c-aa0b-4993-a8f6-e657edaa338f)
 ## Finance View
 
 ![Finace](https://github.com/user-attachments/assets/ea432c76-c5c0-48f7-8676-552a115ea38b)
