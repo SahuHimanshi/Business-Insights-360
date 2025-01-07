@@ -185,26 +185,25 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
+![Info]!(https://github.com/user-attachments/assets/d79bbbeb-5915-4804-9936-c695367a8fdc)
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace](https://github.com/user-attachments/assets/ea432c76-c5c0-48f7-8676-552a115ea38b)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
 
 ## Products
 
