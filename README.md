@@ -187,25 +187,25 @@ In Home view, all the views button will be available. User will land on specific
 ![Finace](https://github.com/user-attachments/assets/ea432c76-c5c0-48f7-8676-552a115ea38b)
 ## Sales View
 
-![Sales](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/user-attachments/assets/e766a80c-4d5a-4031-ba56-a7a33569f2e1)
 
 ## Marketing View
 
-![Marketing](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/user-attachments/assets/e575d29c-4384-4d91-969b-875f616de864)
 
 ## Supply chain View
 
-![Supply chain](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain]((https://github.com/user-attachments/assets/35a432a5-cca2-4ef1-8518-fe5a9436802e)
 
 ## Executive View
 
-![Executive](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/user-attachments/assets/c68d8dce-4434-46fe-a349-c398035ef004)
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Products](https://github.com/user-attachments/assets/b1a895ad-3331-4fdd-a85a-80d9f383e8c4)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/links/eeLHjO6u5b?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 
 ## Project Outcome
