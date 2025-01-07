@@ -191,11 +191,11 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Marketing View
 
-![Marketing](https://github.com/user-attachments/assets/e575d29c-4384-4d91-969b-875f616de864)
+![Marketing](https://github.com/user-attachments/assets/79e4d425-aef3-45b7-8ff3-a5dfdf18b02c)
 
 ## Supply chain View
 
-![Supply chain]((https://github.com/user-attachments/assets/35a432a5-cca2-4ef1-8518-fe5a9436802e)
+![Supply chain](https://github.com/user-attachments/assets/35a432a5-cca2-4ef1-8518-fe5a9436802e)
 
 ## Executive View
 
