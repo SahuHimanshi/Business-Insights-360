@@ -160,8 +160,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
-
+![Screenshot 2025-01-07 220016](https://github.com/user-attachments/assets/f8f69579-290e-455d-8052-7f101f3f7f5b)
 ### Dashboard designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
