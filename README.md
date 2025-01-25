@@ -6,7 +6,7 @@ AtliQ Hardware has experienced rapid growth in recent years and is now taking a 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here] (https://app.powerbi.com/links/NnR4BnD14G?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
-[Live Report Link](https://app.powerbi.com/links/eeLHjO6u5b?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+[Live Report Link](https://app.powerbi.com/links/NnR4BnD14G?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ## Tech stacks
 
