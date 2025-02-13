@@ -181,28 +181,28 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info]!
+![Info](https://github.com/user-attachments/assets/511e981c-b652-4ebe-b44b-ced958d5c9af)
 
-![Finace]
+## Finance View
+
+![Finace](https://github.com/user-attachments/assets/7818be45-62dd-46dc-92d4-02345a984ce2)
+
 ## Sales View
 
-![Sales]
+![Sales](https://github.com/user-attachments/assets/0359aaea-b35e-4592-a136-1f13009f1864)
 
 ## Marketing View
 
-![Marketing]
+![Marketing](https://github.com/user-attachments/assets/ac56654a-3c35-4926-9162-70bacc5084b2)
 
 ## Supply chain View
 
-![Supply chain]
+![Supply chain](https://github.com/user-attachments/assets/af818252-f094-45c3-bd79-4df3c8926ce5)
 
 ## Executive View
 
-![Executive]
+![Executive](https://github.com/user-attachments/assets/04632707-2733-4de5-9e84-dd33fd5ad7a8)
 
-## Products
-
-![Products]
 
 you can find the full report file here : [Report](https://app.powerbi.com/links/NnR4BnD14G?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
