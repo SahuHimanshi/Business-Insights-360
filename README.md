@@ -178,10 +178,7 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-
-## Info Page
-
-![Info](https://github.com/user-attachments/assets/511e981c-b652-4ebe-b44b-ced958d5c9af)
+![Home](https://github.com/user-attachments/assets/511e981c-b652-4ebe-b44b-ced958d5c9af)
 
 ## Finance View
 
