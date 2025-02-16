@@ -39,10 +39,6 @@ I worked on this project by following the Codebasics Power BI Course. Link to th
 - Collaboration, workspace, access permissions in PowerBi services
 - And more...
 
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
