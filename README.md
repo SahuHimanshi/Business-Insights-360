@@ -4,6 +4,8 @@
 
 AtliQ Hardware has experienced rapid growth in recent years and is now taking a significant step forward by integrating data analytics with Power BI. This marks their first venture into leveraging data-driven insights to outpace competitors and make informed decisions. The project aims to address stakeholders key questions across various domains including finance, sales, marketing, and supply chain.
 
+I worked on this project by following the Codebasics Power BI Course. Link to the course is 
+[here](https://codebasics.io/courses/bootcamp/1/power-bi-data-analysis-with-end-to-end-project/lecture/1522).
 
 [Live Report Link](https://app.powerbi.com/links/NnR4BnD14G?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
@@ -14,7 +16,7 @@ AtliQ Hardware has experienced rapid growth in recent years and is now taking a 
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
-- Project charter file
+
 
 ## PowerBI techniques Learnt
 
