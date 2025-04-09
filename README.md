@@ -86,23 +86,24 @@ Dates are standardized to the first day of each month
 Actual sales data structured similarly to the forecast table
 
 ** Database: gdb056
-  freight_cost
+  
+- freight_cost
 
 Transportation and related costs by market and fiscal year
 
-gross_price
+- gross_price
 
 Gross pricing details by product code
 
-manufacturing_cost
+- manufacturing_cost
 
 Annual manufacturing cost per product code
 
-pre_invoice_deductions
+- pre_invoice_deductions
 
 Annual pre-invoice deduction percentages per customer
 
-post_invoice_deductions
+- post_invoice_deductions
 
 Details of post-invoice and other deductions
 
